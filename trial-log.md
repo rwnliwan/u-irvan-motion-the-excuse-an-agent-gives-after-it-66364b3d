@@ -55,4 +55,4 @@ PICK against the five criteria: (1) it IS the excuse, delivered as a loss report
 - Entry commit: `ee713890dc3629d852d286c5d3395cdab1c58032` — "Entry: the excuse an agent gives after it loses (103 chars)" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
 - Repo: PUBLIC, created 2026-11-23T23:38:50Z (after opening 2026-11-23T18:19:54Z). About verified via `gh repo view --json description,homepageUrl,repositoryTopics`: homepage https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d, topics ai-agents, bounties, makefun (no hyphenated make-fun).
 - Push verified: `git ls-remote origin HEAD` = ee713890dc3629d852d286c5d3395cdab1c58032 = local HEAD.
-- Trial-log record commit (final HEAD, submit candidate): recorded below after committing.
+- Trial-log record commit (final HEAD, submit candidate): `73644dd9c605e744084154ba6e5ebabec18b71b7` — "Trial log: commit record + About verification" (trial-log.md only). ls-remote HEAD matches local HEAD.
