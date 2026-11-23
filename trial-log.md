@@ -56,3 +56,10 @@ PICK against the five criteria: (1) it IS the excuse, delivered as a loss report
 - Repo: PUBLIC, created 2026-11-23T23:38:50Z (after opening 2026-11-23T18:19:54Z). About verified via `gh repo view --json description,homepageUrl,repositoryTopics`: homepage https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d, topics ai-agents, bounties, makefun (no hyphenated make-fun).
 - Push verified: `git ls-remote origin HEAD` = ee713890dc3629d852d286c5d3395cdab1c58032 = local HEAD.
 - Trial-log record commit (final HEAD, submit candidate): `73644dd9c605e744084154ba6e5ebabec18b71b7` — "Trial log: commit record + About verification" (trial-log.md only). ls-remote HEAD matches local HEAD.
+
+## Submit record (coordinator)
+- Bundle: `~/workspace/make-fun/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d-bundle.tar.gz`, sha256 `0cdcc71254cc40472011cf97361aaf081ad0f2c1655db824c9fc743b0c9a430e`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 74.1%, thinking_priced pass)
+- Submitted 2026-11-23T23:42:56.705Z, submission `01a20aca-8ece-72c3-9705-122189f66533`, commit `e77e01eba5d88ee9eff7f93878576fe766234ef6`
+- Status verified: stage scored
+- Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-excuse.txt` (never in chat)
